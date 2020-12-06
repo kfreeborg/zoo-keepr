@@ -1,0 +1,28 @@
+{
+  "name": "zoo-keepr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfreeborg/zoo-keepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfreeborg/zoo-keepr/issues"
+  },
+  "homepage": "https://github.com/kfreeborg/zoo-keepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "singleQuote": true
+  }
+}
